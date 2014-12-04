@@ -1,0 +1,670 @@
+
+
+a  {
+  text-decoration: none;
+}
+a img.primary:hover{
+  z-index: -1;
+
+}
+address {
+  color: white;
+  text-align: center;
+  padding: 3em;
+}
+
+
+body {
+  background-color: #343232;
+  margin-top: 161px;
+  font-family: "copperplate_becker_med";
+  
+}
+
+
+h1{
+  margin-top: 0;
+}
+
+p{
+  font-size: 1.2em;
+  color: #A8A8A8;
+}
+
+.btn{
+  font-family: "copperplate_becker_med";
+  border-radius: 0 0 0 0;
+}
+
+
+button.silver{
+}
+
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+width: 100%; 
+
+}
+
+.container {
+  width: 90%;
+  max-width: 509px;
+  margin-right: auto;
+  margin-left: auto;
+  
+ 
+}
+
+.center-block {
+
+}
+
+.dfheader {
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: "copperplate_becker_med";
+  margin-top: none;
+  max-height: 15%;
+}
+
+.dfheader h1 {
+    padding-bottom: 0px;
+    padding-top: 0%;
+    color: white;
+    font-size: 4em;
+}
+
+.dfheader h2 {
+      margin-top: -.39em;
+      padding-top: 0px;
+      padding-bottom: 1%;
+      font-size: 1.8em;
+      margin-bottom: 0;
+
+}
+
+.examples {
+  position: relative;
+
+width: 45%;
+float: right;
+margin:2.5%;
+
+}
+.examples-bracelet {
+  position: relative;
+  top: 50px;
+
+width: 45%;
+float: right;
+margin:2.5%;
+
+  
+
+}
+
+.ring1{
+  margin-top: 54px;
+}
+.ring2{
+  margin-top: 54px;
+}
+.ring3{
+  margin-top: 54px;
+}
+.ring4{
+  margin-top: 54px;
+}
+
+
+
+.contact{
+  margin-top: 3%;
+padding: 4%;
+}
+
+.about{
+  padding-top:1%; 
+  
+}
+.about-text{
+padding-bottom: 15%;
+padding-top:1%;
+}
+
+.about-text-main{
+  padding-top: 35%;
+padding-bottom: 35%;
+}
+
+.mod-bespoke{
+  margin-bottom: 47px;
+
+}
+
+
+.modal-dialog {
+position: relative;
+width: auto;
+margin: auto;
+width: 50%;
+}
+.carousel-caption {
+
+margin-bottom: -83px;
+}
+
+
+
+.carousel-inner {
+
+overflow: visible;
+}
+
+.bio-modal-lg{
+  top: 7%;
+
+}
+.carousel-indicators .active {
+
+margin: 17px;
+
+}
+
+.bio-modal{
+  position: relative;
+  top:50px;
+}
+.panel-bio{
+  background-color: #343232;;
+  border-color:#343232;
+  box-shadow: 0;
+  
+}
+
+.panel-default>.panel-heading {
+color: white;
+background-color: #343232;
+border-color: #ddd;
+}
+
+h3 {
+ font-family: "copperplate_becker_med";
+color: white;
+font-size: 1.5em;
+margin-top: -9%;
+padding-top: 0px;
+text-align: center
+
+}
+
+h3.bottom-text{
+  margin-top: .3em;
+
+
+}
+h4 {
+  font-family:  "copperplate_becker_med";
+  color: white;
+  font-size: .8em;
+   text-align: center;
+
+}
+
+img.primary {
+  margin-top: ;
+  width: 100%;
+  max-width: 25%;
+  display:block;
+  z-index: 2;
+}
+img.primary-services {
+  margin-top: -35px;
+  width: 50%;
+  display:block;
+}
+
+img.services {
+  margin-top: ;
+  width: 100%;
+  max-width: 760px;
+  margin-bottom: 14%;
+}
+
+img.silver {
+  margin-top: ;
+  width: 100%;
+  max-width: 760px;
+  margin-bottom: 9%;
+}
+
+
+
+.lower-bar-pages { 
+  padding-top: 2.8%;
+}
+
+.lower-bar .btn{
+  color: white;
+  background-color: black;
+  border-color: black;
+}
+
+.lower-bar .btn:hover{
+  background-color: #343232;
+  border-color: #343232;
+}
+
+.mainlinks{
+  margin-bottom: 10%;
+}
+
+
+
+address p .contact{
+  font-size: 12px;
+}
+
+.selection-bar .btn{
+position: relative;
+margin-top: -60px;
+text-shadow: 0px 0px 3px black;
+color: white;
+background-color: transparent;
+border-color: transparent;
+font-size: 1.250em;
+
+}
+.services-text{
+  padding-top: 60px;
+  z-index: -2;
+}
+
+.textrow {
+  margin-bottom: ; 
+}
+.wrapper {
+  position:relative;
+  min-height: 519px ;
+  max-height: 509px;
+
+}
+
+.large-modal{
+  background-color: #343232;
+}
+
+
+.silver-btn{
+  position: relative;
+top: 93px;
+
+}
+
+.selection-bar .silver-btn{
+
+
+font-size: 2.25em;
+}
+
+.mainbuttons .btn:hover {
+  display:;
+
+}
+
+
+
+
+.panel-default>.panel-heading+.panel-collapse>.panel-body {
+border-top-color: #343232;
+}
+
+
+.hover-button
+{
+    text-decoration: none;
+    color: transparent;
+}
+ 
+.hover-button:hover
+{
+    color: black;
+}
+
+.main-service-buttons{
+  position: relative;
+  bottom: -25px;
+}
+
+.david-bio{
+  overflow-y: scroll;
+
+}
+
+.julia-bio{
+  overflow-y: scroll;
+}
+
+.julia-bio img{
+  width: 55%;
+}
+
+.bio-text{
+  color: #A8A8A8 ;
+}
+
+ .address-header{
+  color:#A8A8A8 ;
+ }
+
+
+.modal-dialog {
+  top: ;
+position: relative;
+width: auto;
+margin: auto;
+max-width:600px;
+}
+.carousel-caption {
+
+margin-bottom: -83px;
+}
+
+
+.carousel-inner {
+
+overflow: visible;
+}
+
+
+.carousel-indicators .active {
+
+margin: 17px;
+
+}
+
+.modal-lg {
+ top: 92px; 
+}
+
+
+div.panel-body {
+background-color: #343232;
+
+}
+
+
+.panel-1-txt{
+  width: 50%;
+}
+
+
+
+
+#repurposing {
+  position: ;
+  top: 100px;
+}
+
+#bespoke{
+  top:100px;
+}
+
+.bespoke-buttons{
+  margin-top: -76px;
+  width: 50%;
+  display:block;
+}
+
+a.ooo{
+  color: #fff;
+padding-right: 4.5%;
+width: 3%;
+margin-top: -22px;
+
+}
+
+/*  Photo- Galley   */
+.photo-container {
+    background:#C9FFEA;
+    margin:20px auto;
+    padding:20px;
+    position:relative;
+    width:700px;
+
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+
+    box-shadow:1px 1px 5px #111;
+    -moz-box-shadow:1px 1px 5px #111;
+    -webkit-box-shadow:1px 1px 5px #111;
+}
+
+/*  gallery styles */
+.gallery {
+    
+}
+.gallery a {
+    display:inline-block;
+    height:200px;
+    position:relative;
+    width:200px;
+    /*max-width: 32.9%;*/
+    min-height: 100px;
+    min-width: 100px;
+
+
+}
+.gallery a img {
+    border:5px solid #120F11;
+    cursor:pointer;
+    display:block;
+   height: 100% ;
+    left:0px;
+    position:absolute;
+    top:0px;
+    
+    z-index:1;
+
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    user-select: none;
+
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+    box-sizing:border-box;
+
+    -webkit-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -webkit-transition-duration:0.5s;
+    -moz-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -moz-transition-duration:0.5s;
+    -o-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -o-transition-duration:0.5s;
+    transition-property:width, height, top, bottom, left, right, z-index, border;
+    transition-duration:0.5s;
+}
+.gallery a:focus img {
+    border:15px solid #fff;
+    cursor:default;
+    height:250%;
+    position:absolute;
+    
+    z-index:25;
+
+    box-shadow:1px 1px 5px #888;
+    -moz-box-shadow:1px 1px 5px #888;
+    -webkit-box-shadow:1px 1px 5px #888;
+    -webkit-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -webkit-transition-duration:0.5s;
+    -moz-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -moz-transition-duration:0.5s;
+    -o-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -o-transition-duration:0.5s;
+    transition-property:width, height, top, bottom, left, right, z-index, border;
+    transition-duration:0.5s;
+}
+
+/* custom focus rules */
+
+
+
+/* extra close layer */
+.gallery .close {
+    background:transparent;
+    cursor:pointer;
+    display:none;
+    height:352px;
+    left:170px;
+    position:absolute;
+    top:160px;
+    width:500px;
+    z-index:30;
+}
+.gallery a:focus ~ .close {
+    display:block;
+}
+
+
+
+.carousel-caption {
+position: absolute;
+ right: 0; 
+bottom: 0; 
+left: 0; 
+margin-bottom: -105px;
+
+
+}
+
+.carousel-control .glyphicon-chevron-left {
+left: 46%;
+margin-left: -46px;
+
+}
+
+
+.carousel-control .glyphicon-chevron-right {
+right: 46%;
+margin-right: -46px;
+}
+
+
+.diamond-txt{
+  top:100%;
+}
+
+.navbar-text{
+  float: '';
+}
+
+
+.navbar-inverse .navbar-text {
+color: #949292;
+}
+
+
+
+
+
+
+
+
+
+
+@media all and (max-width: 780px) {
+  body{
+    margin-top: 148px;
+  }
+  .modal-dialog{
+    width: 90%;
+  }
+
+
+  .address-header{
+    margin-top: -30px;
+
+  }
+}
+
+
+
+
+@media screen and (max-width: 1424px) {
+      .container {
+      width: 90%;
+      margin-right: auto;
+      margin-left: auto;
+      max-width: 509px;
+      padding-top: ;
+}
+
+
+
+}
+
+@media screen and (max-width: 480px) {
+
+
+span.lower-media{
+  display: none;
+}
+    .dfheader h1 {
+    padding-bottom: 0px;
+    padding-top: 0%;
+    color: white;
+    font-size: 2em;
+}
+
+    .dfheader h2 {
+      margin-top: -.3em;
+      padding-top: 0px;
+      padding-bottom: 1%;
+      font-size: 1em;
+      margin-bottom: 3%;
+
+}
+      body {
+        background-color: #343232;
+        padding-bottom: 10.000em;
+        margin-top: 110px;
+        max-height: 1000px;
+
+
+}
+
+
+
+.panel-1-txt {
+width: 100%;
+}
+  .about-text {
+padding-bottom: 31%;
+}
+#bottom {
+  display: none;
+
+}
+.gallery a:focus img {
+    border:15px solid #fff;
+    cursor:default;
+    height:100%;
+    position:absolute;
+    
+    z-index:25;
+
+    box-shadow:1px 1px 5px #888;
+    -moz-box-shadow:1px 1px 5px #888;
+    -webkit-box-shadow:1px 1px 5px #888;
+    -webkit-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -webkit-transition-duration:0.5s;
+    -moz-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -moz-transition-duration:0.5s;
+    -o-transition-property:width, height, top, bottom, left, right, z-index, border;
+    -o-transition-duration:0.5s;
+    transition-property:width, height, top, bottom, left, right, z-index, border;
+    transition-duration:0.5s;
+}
+
+}
